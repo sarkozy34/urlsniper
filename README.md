@@ -80,11 +80,11 @@ Save VDS costs and enjoy instant claiming with our optimized tiers:
 
 <p align="center">
   <strong>1. Overview Dashboard</strong><br>
-  <img src="assets/overview.png" alt="UrlSniper Web Dashboard Overview" width="90%" style="border-radius: 8px; border: 1px solid #2d3139; margin-bottom: 15px;" /><br><br>
+  <img src="https/sniper.sarkozy.xyz/assets/overview.png" alt="UrlSniper Web Dashboard Overview" width="90%" style="border-radius: 8px; border: 1px solid #2d3139; margin-bottom: 15px;" /><br><br>
   <strong>2. Configurations Console</strong><br>
-  <img src="assets/configs.png" alt="UrlSniper Configurations Console" width="90%" style="border-radius: 8px; border: 1px solid #2d3139; margin-bottom: 15px;" /><br><br>
+  <img src="https/sniper.sarkozy.xyz/assets/configs.png" alt="UrlSniper Configurations Console" width="90%" style="border-radius: 8px; border: 1px solid #2d3139; margin-bottom: 15px;" /><br><br>
   <strong>3. Multi-Factor Authenticator</strong><br>
-  <img src="assets/2fa.png" alt="UrlSniper 2FA Keys Authenticator" width="90%" style="border-radius: 8px; border: 1px solid #2d3139;" />
+  <img src="https/sniper.sarkozy.xyz/assets/2fa.png" alt="UrlSniper 2FA Keys Authenticator" width="90%" style="border-radius: 8px; border: 1px solid #2d3139;" />
 </p>
 
 ---
@@ -157,11 +157,11 @@ Her ihtiyaca ve bütçeye uygun paketlerimizle VDS masrafından kurtulun:
 
 <p align="center">
   <strong>1. Genel Panel Görünümü (Dashboard)</strong><br>
-  <img src="assets/overview.png" alt="UrlSniper Web Panel Genel Görünüm" width="90%" style="border-radius: 8px; border: 1px solid #2d3139; margin-bottom: 15px;" /><br><br>
+  <img src="https/sniper.sarkozy.xyz/assets/overview.png" alt="UrlSniper Web Panel Genel Görünüm" width="90%" style="border-radius: 8px; border: 1px solid #2d3139; margin-bottom: 15px;" /><br><br>
   <strong>2. Konfigürasyon Ayarları (Configurations)</strong><br>
-  <img src="assets/configs.png" alt="UrlSniper Konfigürasyon Ayarları" width="90%" style="border-radius: 8px; border: 1px solid #2d3139; margin-bottom: 15px;" /><br><br>
+  <img src="https/sniper.sarkozy.xyz/assets/configs.png" alt="UrlSniper Konfigürasyon Ayarları" width="90%" style="border-radius: 8px; border: 1px solid #2d3139; margin-bottom: 15px;" /><br><br>
   <strong>3. İki Aşamalı Güvenlik Bölümü (2FA Keys)</strong><br>
-  <img src="assets/2fa.png" alt="UrlSniper 2FA Keys İki Aşamalı Güvenlik" width="90%" style="border-radius: 8px; border: 1px solid #2d3139;" />
+  <img src="https/sniper.sarkozy.xyz/assets/2fa.png" alt="UrlSniper 2FA Keys İki Aşamalı Güvenlik" width="90%" style="border-radius: 8px; border: 1px solid #2d3139;" />
 </p>
 
 ---
