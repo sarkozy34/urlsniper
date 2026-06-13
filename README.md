@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://sniper.sarkozy.xyz/"><img src="https://img.shields.io/badge/Live_Console-sniper.sarkozy.xyz-7c3aed?style=for-the-badge&logo=discord&logoColor=white" alt="Live Console" /></a>
+  <a href="https://demo.sarkozy.xyz/"><img src="https://img.shields.io/badge/Interactive_Demo-demo.sarkozy.xyz-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Interactive Demo" /></a>
 </p>
 
 <p align="center">
@@ -34,7 +35,8 @@ Normally, running a Discord vanity sniper requires renting a VDS (Virtual Dedica
 - **Extreme Speed (HTTP/2):** Built with persistent HTTP/2 connection pooling and preflight request technology directly linked to the closest Discord API endpoints. Claims vanity codes in **under 15ms**.
 - **7/24 Web Control Center:** Manage multiple runners, view live websocket logs, and update target configurations instantly from any desktop or mobile browser.
 
-👉 **Start Sniping Now:** [https://sniper.sarkozy.xyz/](https://sniper.sarkozy.xyz/)
+👉 **Start Sniping Now:** [https://sniper.sarkozy.xyz/](https://sniper.sarkozy.xyz/)<br>
+🌐 **Try the Interactive Demo:** [https://demo.sarkozy.xyz/](https://demo.sarkozy.xyz/)
 
 ---
 
@@ -77,7 +79,12 @@ Save VDS costs and enjoy instant claiming with our optimized tiers:
 ### 💻 Dashboard Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dexycan/dreamsandrealities/main/preview.png" alt="UrlSniper Web Control Panel" width="90%" style="border-radius: 8px; border: 1px solid #2d3139;" />
+  <strong>1. Overview Dashboard</strong><br>
+  <img src="assets/overview.png" alt="UrlSniper Web Dashboard Overview" width="90%" style="border-radius: 8px; border: 1px solid #2d3139; margin-bottom: 15px;" /><br><br>
+  <strong>2. Configurations Console</strong><br>
+  <img src="assets/configs.png" alt="UrlSniper Configurations Console" width="90%" style="border-radius: 8px; border: 1px solid #2d3139; margin-bottom: 15px;" /><br><br>
+  <strong>3. Multi-Factor Authenticator</strong><br>
+  <img src="assets/2fa.png" alt="UrlSniper 2FA Keys Authenticator" width="90%" style="border-radius: 8px; border: 1px solid #2d3139;" />
 </p>
 
 ---
@@ -105,7 +112,8 @@ Geleneksel Discord sniper yazılımlarını çalıştırmak için aylık **$5 - 
 - **Olağanüstü Hız (HTTP/2):** Klasik yavaş HTTP/1.1 kütüphaneleri yerine, doğrudan en yakın Discord sunucularına açık tutulan aktif HTTP/2 tünelleri ve ön-sorgu (preflighting) teknolojisini kullanıyoruz. Kodun claim hızı **15ms** altındadır.
 - **7/24 Web Kontrol Paneli:** Telefonunuzdan veya bilgisayarınızdan tek tıkla web paneline girip sniper ajanlarınızı yönetebilir, logları canlı akışla izleyebilirsiniz.
 
-👉 **Hemen Başlayın:** [https://sniper.sarkozy.xyz/](https://sniper.sarkozy.xyz/)
+👉 **Hemen Başlayın:** [https://sniper.sarkozy.xyz/](https://sniper.sarkozy.xyz/)<br>
+🌐 **İnteraktif Demoyu Deneyin:** [https://demo.sarkozy.xyz/](https://demo.sarkozy.xyz/)
 
 ---
 
@@ -148,7 +156,12 @@ Her ihtiyaca ve bütçeye uygun paketlerimizle VDS masrafından kurtulun:
 ### 💻 Panel Görüntüsü
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dexycan/dreamsandrealities/main/preview.png" alt="UrlSniper Web Kontrol Paneli" width="90%" style="border-radius: 8px; border: 1px solid #2d3139;" />
+  <strong>1. Genel Panel Görünümü (Dashboard)</strong><br>
+  <img src="assets/overview.png" alt="UrlSniper Web Panel Genel Görünüm" width="90%" style="border-radius: 8px; border: 1px solid #2d3139; margin-bottom: 15px;" /><br><br>
+  <strong>2. Konfigürasyon Ayarları (Configurations)</strong><br>
+  <img src="assets/configs.png" alt="UrlSniper Konfigürasyon Ayarları" width="90%" style="border-radius: 8px; border: 1px solid #2d3139; margin-bottom: 15px;" /><br><br>
+  <strong>3. İki Aşamalı Güvenlik Bölümü (2FA Keys)</strong><br>
+  <img src="assets/2fa.png" alt="UrlSniper 2FA Keys İki Aşamalı Güvenlik" width="90%" style="border-radius: 8px; border: 1px solid #2d3139;" />
 </p>
 
 ---
